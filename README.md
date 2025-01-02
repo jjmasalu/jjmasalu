@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning** and working on building my **Portfolio Website** from scratch.
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/jjmasalu](https://www.datascienceportfol.io/jjmasalu)
 
